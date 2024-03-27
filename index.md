@@ -36,3 +36,9 @@ def bubbleSort(arr):
             # can just exit the main loop.
             return
 ```
+
+## Task lists example
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
